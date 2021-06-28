@@ -1,0 +1,7 @@
+Django==3.2.2
+mysqlclient==1.4.6
+gunicorn
+requests
+django-axes==5.19.0
+cryptography==2.6.1
+
